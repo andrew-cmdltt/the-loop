@@ -263,15 +263,17 @@ body {
 
     &-item {
       display: flex;
-      justify-content: left;
       margin-bottom: 10px;
+    }
+
+    &-icon {
+      padding-right: 10px;
     }
 
     &-link {
       color: $gray;
       text-decoration: none;
       font-size: 14px;
-      margin-left: 10px;
     }
 
   }

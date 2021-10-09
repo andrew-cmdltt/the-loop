@@ -221,14 +221,15 @@ body {
 }
 .footer-list-item {
   display: flex;
-  justify-content: left;
   margin-bottom: 10px;
+}
+.footer-list-icon {
+  padding-right: 10px;
 }
 .footer-list-link {
   color: #CBCFD4;
   text-decoration: none;
   font-size: 14px;
-  margin-left: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
